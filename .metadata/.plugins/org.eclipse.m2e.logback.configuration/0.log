@@ -1537,3 +1537,6 @@
 2022-10-16 16:41:45,135 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-10-16 16:41:45,148 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-10-16 16:41:45,157 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/marcio/Documentos/curso_java/rest-with-spring-boot-and-java-erudio/rest-with-spring-boot-and-java-erudio/src/test/resources
+2022-10-16 16:44:05,279 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-16 16:44:05,286 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-16 16:44:05,305 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/marcio/Documentos/curso_java/rest-with-spring-boot-and-java-erudio/rest-with-spring-boot-and-java-erudio/src/test/resources
